@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="author" content="Michael D'Auria"/>
+  <title>mindsifter || {{ page.title }}</title>
+  <link href="/css/style.css" rel="stylesheet" type="text/css" />
+  <link href="/feed/atom.xml" rel="alternate" type="application/atom+xml" />
+</head>
+<body>
+  <div id="container">
+    <div id="leftcol">
+      <h1>mind<span>sifter</span></h1>
+      <p class="sub">sifting through the thoughts in my mind<br />Copyright Michael D'Auria © 2010</p>
+
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="/">Home</a></li>
+      </ul>
+
+      <h3>Projects</h3>
+      <ul>
+        <li><a href="http://hhpdesign.com" target="_blank">hhp design</a></li>
+        <li><a href="http://songbright.com" target="_blank">songbright</a></li>
+        <li><a href="http://seatgeek.com" target="_blank">seatgeek</a></li>
+        <li><a href="http://github.com/michaeldauria" target="_blank">github</a></li>
+      </ul>
+    </div>
+
+    <div id="rightcol">
+      {{ content }}
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-305059-2']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = 'http://www.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: 800x600 is for wussies
+---
+Yea that's right i said it, for wussies!  I checked my Google Analytics and noticed that the smallest resolution used to view the site was 1024x768, therefore i took a few minutes to expand the layout by 130 pixels.  This enables the longer code segments to fit inside of the images that contain them; I also find it much easier to read.  That is all for now...

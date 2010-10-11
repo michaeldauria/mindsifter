@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: Who am I?
+---
+Welcome to my small, never heard of, yet fun blog!  The content I aim to blog about is anything related to software engineering, web design, travel and any weird websites or links I come across.  Hopefully you will find everything to be entertaining :)  I very much like to research new technologies and methods regarding computer engineering, including new emerging programming languages, web server software as well as proper coding etiquette.  I jumped onto the Ruby and Rails bandwagon back in June and since then I have helped create <a href="http://treblenation.com" target="_blank">trebleNation</a>.  Hopefully you find the content that I post amusing so that you come back again for another visit.

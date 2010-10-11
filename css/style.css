@@ -1,0 +1,44 @@
+/*
+BO2 (blackorange Version 2) Theme
+Developed by willr | willr.co.nz Any Questions feel free to contact me via my site
+*/
+
+* { margin: 0; padding: 0; border;}
+a { text-decoration: none;}
+img, a img { border: 0;}
+ul, li { list-style: none;}
+html, body { height: 101%;}
+body { background: #343434 url(/images/pagebg.gif) repeat-x; font-family: "Lucida Grande", verdana, "Lucida Sans Unicode", sans-serif; font-size: 62.5%; color: #9f9f9f;}
+.clear { clear: both; margin: 3px 0;}
+
+p { color: #9f9f9f; line-height: 1.5em; font-size: 1.12em; margin-left: 6px;}
+p a { color: #eee;}
+p a:hover {color: #fff; border-bottom: 1px dotted #666;}
+abbr, acronym { border-bottom: 1px dotted #666;}
+blockquote { margin: 10px auto 10px auto;width: 450px; background: #3B3B3B url(/images/blockquote.gif) no-repeat center bottom; font-size: 1.5em; font-style: italic;}
+blockquote p { margin: 10px; padding: 10px;}
+cite { color: #555; text-indent: 20px; font-size: 0.8em;}
+pre { margin: 10px auto 10px auto; padding-bottom: 15px; width: 580px; background: #3B3B3B url(/images/code.gif) no-repeat center bottom; font-size: 1.4em; color: #9f9f9f;}
+p.sub { margin: -1px 0 30px 0; font-size: 0.9em; color: #777;}
+
+#container { width: 900px; margin: 0 auto;}
+#leftcol { width: 200px; float: left; margin-top: 40px; height: 105%;}
+#rightcol { width: 679px; float: right; margin-top: 100px;}
+
+h1 { font-size: 4.6em; white-space: pre; line-height: 38px; color: #fff;}
+h1 span { color: #FF9215; font-size: 0.9em;}
+
+h2 { font-size: 1em; margin: 8px 0;}
+h2 a { font-size: 2.3em; padding: 0 6px; font-weight: 300; color: #F8F8F8; letter-spacing: -0.02em;}
+h2 a:hover { color: #fff; background: #FF8803 url(/images/headerhover.gif) repeat-x;}
+h2 span { font-size: 1em; color: #b8b8b8; margin-left: 10px;}
+h3 { color: #fff; font-size: 1.3em; margin: 15px 0 10px 0;}
+h4, h5, h6 { font-size: 1.3em; color: #f0f0f0; margin: 10px 10px 10px 6px; width: 80%; border-bottom: 1px dotted #666} 
+
+.artop { width: 678px; height: 42px; margin: 20px auto 30px auto; background: #434343 url(/images/articleoptions.gif) no-repeat;}
+.artop p { line-height: 42px; color: #8B8B8B; text-indent: 10px;}
+.artop a { color: #8B8B8B;}
+.artop a:hover  { color: #ccc; border-bottom: 1px dotted #666;}
+
+#leftcol ul li a { color: #8B8B8B; display: block; font-size: 1.2em; text-indent: 10px; line-height: 25px; width: 182px; height: 25px;}
+#leftcol ul li a:hover { color: #fff; background: #FF9215 url(/images/bookmarkhover.gif) no-repeat;}
