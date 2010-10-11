@@ -2,4 +2,3 @@
 markdown: rdiscount
 paginate: 7
 pygments: true
-server: true
