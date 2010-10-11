@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+jekyll && rsync -avzP --delete _site/ mindsifter.com:/home/mindsifter/www
